@@ -1,7 +1,7 @@
 package com.example;
 
-App.java {
+public class App {
     public static void main(String[] args) {
-        System.out.println("Hello, GitHub CI/CD!");
+        System.out.println("Hello, world!");
     }
 }
