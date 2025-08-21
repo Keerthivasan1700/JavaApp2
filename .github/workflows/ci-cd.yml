@@ -49,7 +49,7 @@ jobs:
     - name: Build with Maven
       run: mvn clean install
 
-    - name: Deploy to your Server/Cloud (Example: AWS, Heroku, etc.)
+    - name: Deploy to your Server/Cloud
       run: |
         echo "Deploying the Java app..."
         # Add your custom deployment commands here (e.g., scp, ssh, AWS CLI commands)
