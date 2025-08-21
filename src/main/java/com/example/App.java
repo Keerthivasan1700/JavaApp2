@@ -1,6 +1,6 @@
 package com.example;
 
-public class App {
+App.java {
     public static void main(String[] args) {
         System.out.println("Hello, GitHub CI/CD!");
     }
