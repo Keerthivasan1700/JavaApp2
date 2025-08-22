@@ -33,7 +33,6 @@
                 <artifactId>maven-jar-plugin</artifactId> <!-- ✅ Fixed here -->
                 <version>3.2.0</version>
                 <configuration>
-                    <archive>
                         <manifest>
                             <mainClass>com.example.Main</mainClass> <!-- Replace with your actual main class -->
                         </manifest>
