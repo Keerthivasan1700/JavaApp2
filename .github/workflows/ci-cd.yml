@@ -2,7 +2,8 @@ name: Java CI/CD Pipeline
 
 # Trigger the pipeline on push to any branch or pull request to main
 on:
-workflow_dispatch:
+  workflow_dispatch:
+
   push:
     branches:
       - main
